@@ -1,0 +1,19 @@
+{
+  "name": "registrationform",
+  "version": "1.0.0",
+  "description": "this is a registration form which registers the user data in to the database",
+  "main": "index.js",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sai bhargav",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "hbs": "^4.1.2",
+    "mongoose": "^5.12.7",
+    "validator": "^13.6.0"
+  }
+}
